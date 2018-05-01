@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+# Author: Enrique Serrano ( @EnriqueITE | hello@enriqueite.com )
+
 use  HTTP::Request::Common qw(POST);
 use LWP::UserAgent;
 use strict;
