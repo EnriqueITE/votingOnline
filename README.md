@@ -1,4 +1,4 @@
-# votingOnline
+# votingOnline - Presented in the event Mundo Hacker Day 2018 in Madrid, Spain
 Perl script to automate votes avoiding security measures in online polls.
 
 It's necessary to configure the URL and POST fields.
